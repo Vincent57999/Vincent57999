@@ -10,13 +10,15 @@
 ### Languages and Tools
 
 <p align="center">
-  <img src="icons/verilog.png" width="55" height="55" alt="Verilog" />
+  <img src="./icon/verilog.svg" width="55" height="55" alt="Verilog" title="Verilog" />
   &nbsp;&nbsp;
-  <img src="icons/systemverilog.png" width="55" height="55" alt="SystemVerilog" />
+  <img src="./icon/systemverilog.svg" width="55" height="55" alt="SystemVerilog" title="SystemVerilog" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55" alt="Python" />
+  <img src="./icon/python.webp" width="55" height="55" alt="Python" title="Python" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="55" height="55" alt="MATLAB" />
+  <img src="./icon/Matlab.png" width="55" height="55" alt="MATLAB" title="MATLAB" />
+  &nbsp;&nbsp;
+  <img src="./icon/modelsim.png" width="55" height="55" alt="ModelSim" title="ModelSim" />
 </p>
 
 <br>
