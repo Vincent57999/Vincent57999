@@ -26,10 +26,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent57999&layout=compact&theme=default&hide_border=false" alt="Most Used Languages" />
 
 </div>
-Stats" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent57999&layout=compact&theme=default&hide_border=false" alt="Most Used Languages" />
-
-</div>
