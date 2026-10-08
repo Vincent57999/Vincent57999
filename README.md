@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hi 👋, I'm Vincent57999
@@ -8,32 +9,24 @@
 
 ### Languages and Tools
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/verilog/verilog-original.svg" width="45" height="45" alt="Verilog"/>
-      <br>Verilog
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/SV-SystemVerilog-7167AF?style=for-the-badge" height="32" alt="SystemVerilog"/>
-      <br>SystemVerilog
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-      <br>Python
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB"/>
-      <br>MATLAB
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="icons/verilog.png" width="55" height="55" alt="Verilog" />
+  &nbsp;&nbsp;
+  <img src="icons/systemverilog.png" width="55" height="55" alt="SystemVerilog" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="55" height="55" alt="MATLAB" />
+</p>
 
----
+<br>
 
-### 📊 GitHub Stats
+### Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vincent57999&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent57999&layout=compact&theme=default&hide_border=false" alt="Most Used Languages" />
+
+</div>
+Stats" />
 
 <br>
 
