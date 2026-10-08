@@ -14,7 +14,7 @@
   &nbsp;&nbsp;
   <img src="./icon/systemverilog.svg" width="55" height="55" alt="SystemVerilog" title="SystemVerilog" />
   &nbsp;&nbsp;
-  <img src="./icon/python.webp" width="55" height="55" alt="Python" title="Python" />
+  <img src="./icon/python.jpg" width="55" height="55" alt="Python" title="Python" />
   &nbsp;&nbsp;
   <img src="./icon/Matlab.png" width="55" height="55" alt="MATLAB" title="MATLAB" />
   &nbsp;&nbsp;
