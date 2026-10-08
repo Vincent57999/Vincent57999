@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Vincent57999
 
-### A Digital IC Student from Taiwan 🇹🇼
+### A Digital IC Student from Taiwan
 
 ---
 
